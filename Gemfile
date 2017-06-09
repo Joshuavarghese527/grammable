@@ -33,6 +33,8 @@ gem 'sass-rails', '>= 3.2'
 
 gem 'simple_form'
 
+gem 'carrierwave', '~> 1.0'
+
 gem 'rails_12factor', group: :production
 
 group :development, :test do

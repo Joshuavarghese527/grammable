@@ -12,7 +12,4 @@ require 'rails_helper'
 # end
 RSpec.describe GramsHelper, type: :helper do
 
-    RSpec.configure do |config|
-    config.include Devise::TestHelpers, type: :controller
-  end
 end
